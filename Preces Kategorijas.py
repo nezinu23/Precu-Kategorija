@@ -131,4 +131,4 @@ print("Arējo atslegu kludas:", cursor.fetchall())
 conn.close()
 
 print("-----------------------------")
-print("Programma pabeigta!")
+print("Preces Kategorija pabeigta!")
